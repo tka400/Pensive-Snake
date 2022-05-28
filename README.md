@@ -1,5 +1,9 @@
 ### Pensive Snake - задумчивая змейка
 
+Видео про змейку на моём канале
+
+[![YouTube video](https://i9.ytimg.com/vi/ZjGYrZQe0J8/mq2.jpg?sqp=CLDiyZQG&rs=AOn4CLDA8AEZInkCbic926cV7xz1XWqxBQ)]([https://youtu.be/BP5vgZmwYdk](https://youtu.be/ZjGYrZQe0J8))
+
 Змейка под управлением Искусственного интелекта (Artificial Intelligence), построенном на самом простом и медленном алгоритме машинного обучения k-ближайших соседей (KNN).
 
 Доступно два режима работы: 
